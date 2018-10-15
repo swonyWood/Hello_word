@@ -1,4 +1,7 @@
 # Hello_word
 第一个存储库
 
-hi,everybody,i like here
+嗨，大家好，我喜欢这里
+有人的地方就有江湖
+陈平安
+剑来
